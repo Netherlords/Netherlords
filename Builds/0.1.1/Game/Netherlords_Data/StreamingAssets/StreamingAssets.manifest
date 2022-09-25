@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1745673868
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: infinitypbr
+      Dependencies: {}
+    Info_1:
+      Name: uma/shared/challengerarmor
+      Dependencies: {}
+    Info_2:
+      Name: uma/werewolf/wardrobe1
+      Dependencies: {}
+    Info_3:
+      Name: uma/toonfemale/wardrobecollections
+      Dependencies: {}
+    Info_4:
+      Name: uma/shared/challengerarmorwc
+      Dependencies: {}
+    Info_5:
+      Name: uma/toonshared/racebase
+      Dependencies: {}
+    Info_6:
+      Name: uma/werewolf/racebase
+      Dependencies:
+        Dependency_0: uma/werewolf/wardrobe1
+    Info_7:
+      Name: uma/toonfemale/racebase
+      Dependencies:
+        Dependency_0: uma/toonshared/racebase
+    Info_8:
+      Name: uma/toonshared/animations
+      Dependencies: {}
+    Info_9:
+      Name: uma/toonfemale/wardrobe2
+      Dependencies:
+        Dependency_0: uma/toonshared/racebase
+    Info_10:
+      Name: uma/toonshared/wardrobe1
+      Dependencies:
+        Dependency_0: uma/toonshared/racebase
+    Info_11:
+      Name: uma/toonfemale/wardrobe1
+      Dependencies:
+        Dependency_0: uma/toonshared/racebase
+        Dependency_1: uma/toonshared/wardrobe1

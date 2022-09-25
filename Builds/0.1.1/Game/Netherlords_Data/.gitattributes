@@ -6,3 +6,4 @@ level9 filter=lfs diff=lfs merge=lfs -text
 level4 filter=lfs diff=lfs merge=lfs -text
 level7 filter=lfs diff=lfs merge=lfs -text
 level5 filter=lfs diff=lfs merge=lfs -text
+level6 filter=lfs diff=lfs merge=lfs -text
